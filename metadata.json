@@ -1,0 +1,6 @@
+{
+  "name": "Coastal Mist Weather",
+  "description": "A calm, semantic weather app layout with Vijayawada sample data in Celsius, city search, clickable 7-day forecast cards, and °C/°F unit switching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
